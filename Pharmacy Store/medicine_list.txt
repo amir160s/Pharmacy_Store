@@ -1,0 +1,35 @@
+MedicineList:
+ Medicine Name= B-50
+ Exp Date= 12/14/26
+ Generic Name= Vitamin b
+ CompanyName= square
+ TotalQuantity= 50
+ price=150.0
+MedicineList:
+ Medicine Name= Napa
+ Exp Date= 10/25/25
+ Generic Name= Paracitamol
+ CompanyName= Beximco
+ TotalQuantity= 200
+ price=350.0
+MedicineList:
+ Medicine Name= CTZ
+ Exp Date= 14/12/25
+ Generic Name= gffg
+ CompanyName= gfg
+ TotalQuantity= 14
+ price=14.0
+MedicineList:
+ Medicine Name= Evit soft 400
+ Exp Date= 02/02/25
+ Generic Name= d-Alpha Tocopherol 400
+ CompanyName= Square
+ TotalQuantity= 30
+ price=180.0
+MedicineList:
+ Medicine Name= Evit soft 400
+ Exp Date= 02/02/25
+ Generic Name= d-Alpha Tocopherol 400
+ CompanyName= Square
+ TotalQuantity= 30
+ price=180.0
